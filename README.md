@@ -15,7 +15,7 @@ Microservices Architecture also uses the same technique of divide and conquer.
 Single purpose:- Each service should focus on one single purpose and do it well.
 Loose Coupling:- Dependency between modules should be very low.
 High Cohesion:- Each service sums up all related behaviours and data together. If we need to build a new feature, all the changes should be localized to just one service.
- 
+
 ## Advantages :
 
 
@@ -38,7 +38,7 @@ Microservices are loosely coupled and only communicate via language-agnostic way
 ## Application Scaling:
 
 Microservices are often Stateless. If carefully deployed then microservices can offer horizontal scaling within seconds. It is the high horizontal scaling which leads the tech giants to move to microservices.
- 
+
 ## Differentiate Between Monolith Architecture and Microservices Architecture:-
 
 
